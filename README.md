@@ -1,0 +1,2 @@
+# firecoin
+Firecoin Auto Bot
